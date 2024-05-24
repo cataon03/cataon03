@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Catalina
+        <samp>&gt; Hey There!, I am Catalina  <img align="right" width="275" src="/assets/7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="Intro gif" />
         </samp>
 </h3>
 
