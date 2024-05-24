@@ -26,7 +26,7 @@
  # About me
  
 <p>
- <img align="right" width="275" src="/assets/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding gif" />
+ <img align="right" width="275" src="/assets/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding gif" /> <img align="right" width="50" src="/assets/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="EatSleepCode gif" />
    <br> <br>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
