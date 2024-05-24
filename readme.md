@@ -33,7 +33,7 @@
 📧 &emsp; Reach me anytime: <a href="mailto:cataocampon03@gmail.com">gmail</a><br/><br/>
  💬 &emsp; Ask me about anything: <a href="https://github.com/cataon03/cataon03/issues">here</a>
 
-  <img style="position: absolute; top: 10; right: 100;" width="100" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
+  <img style="position: absolute; top: 75; right: 300;" width="100" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
 
 </p>
 
