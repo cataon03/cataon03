@@ -26,11 +26,11 @@
  # About me
  
 <p align="center">
-  <img style="position: absolute; top: 75; right: 300;" width="300" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
+  <img style="position: absolute; top: 75; right: 300;" width="200" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
 </p>
 
 <p align="center">
-  <img align="right" width="275" src="/assets/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding gif" /> 
+  <img align="right" width="205" src="/assets/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding gif" /> 
         
    <br> <br>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
