@@ -27,13 +27,14 @@
  
 <p>
   <img align="right" width="275" src="/assets/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding gif" /> 
+        
+  <img style="position: absolute; top: 75; right: 300;" width="300" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
+
    <br> <br>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
 📧 &emsp; Reach me anytime: <a href="mailto:cataocampon03@gmail.com">gmail</a><br/><br/>
  💬 &emsp; Ask me about anything: <a href="https://github.com/cataon03/cataon03/issues">here</a>
-
-  <img style="position: absolute; top: 75; right: 300;" width="300" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
 
 </p>
 
