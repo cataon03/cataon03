@@ -26,7 +26,7 @@
  # About me
  
 <p align="center">
-  <img style="position: absolute; top: 75; right: 300;" width="200" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
+  <img style="position: absolute; top: 75; right: 350;" width="200" src="/assets/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="New gif" />
 </p>
 
 <p align="center">
