@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Catalina
+        <samp>&gt; Hey There!, I'm Catalina
         </samp>
 </h3>
 
